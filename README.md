@@ -34,8 +34,14 @@ Working in a team, even that I know how to do my job, I try to talk with each ot
 if they really understand what the current project/task is about, and if I can help in some point.
 
 
-<div>
+</picture>
+<br><br><br>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
   <a href="https://github.com/RafaArtioli">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaartioli&layout=compact&langs_count=6&theme=dark"/>
  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rafaartioli&theme=dark&show_icons=true&count_private=true" />
-</div>
+</tr>
+</table>
