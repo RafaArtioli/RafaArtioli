@@ -37,5 +37,5 @@ if they really understand what the current project/task is about, and if I can h
 <div>
   <a href="https://github.com/RafaArtioli">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaartioli&layout=compact&langs_count=6&theme=dark"/>
-   <img  align="center"  src="https://github-readme-stats.vercel.app/api?   username=rafaartioli&theme=dark&show_icons=true&count_private=true" />
+ <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rafaartioli&theme=dark&show_icons=true&count_private=true" />
 </div>
