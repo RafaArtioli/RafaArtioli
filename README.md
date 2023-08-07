@@ -14,8 +14,8 @@ I'm Brazilian, 29 years old, I'm currently studying systems analysis and develop
 
 <div>
   <a href="https://github.com/RafaArtioli">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaartioli&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaartioli&layout=compact&langs_count=6&theme=buefy"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaartioli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaartioli&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
    
