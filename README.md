@@ -13,10 +13,9 @@ I'm Brazilian, 29 years old, I'm currently studying systems analysis and develop
 </div>
 
 
-<div>
-<a href="https://github.com/RafaArtioli">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior-scp&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=junior-scp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PYTHON" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 </div>
 
 ## ⚙️ Technologies and Tools
