@@ -7,6 +7,10 @@ Hello Everyone, I'm Rafael Artioli,
 I'm Brazilian, 29 years old, I'm currently studying systems analysis and development
 
 
+<div>
+  <a href="https://github.com/RafaelArtioli">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonrusso&layout=compact&langs_count=6&theme=buefy"/>
+</div>
 
 <div>
 <a href="https://www.linkedin.com/in/rafael-artioli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
