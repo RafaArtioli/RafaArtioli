@@ -12,9 +12,13 @@ I'm Brazilian, 29 years old, I'm currently studying systems analysis and develop
 <a href="https://www.linkedin.com/in/rafael-artioli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaArtioli&theme=dark" />
+<div>
+  <a href="https://github.com/RafaArtioli">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaartioli&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaartioli&layout=compact&langs_count=6&theme=buefy"/>
+</div>
 
+   
 ## ⚙️ Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
