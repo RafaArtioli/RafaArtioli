@@ -12,10 +12,6 @@ I'm Brazilian, 29 years old, I'm currently studying systems analysis and develop
 <a href="https://www.linkedin.com/in/rafael-artioli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div>
-  <a href="https://github.com/RafaArtioli">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaartioli&layout=compact&langs_count=6&theme=dark"/>
-</div>
 
    
 ## ⚙️ Technologies and Tools
@@ -37,3 +33,9 @@ career, creating this network of helping and being helped by others, will create
 
 Working in a team, even that I know how to do my job, I try to talk with each other of the team, to check
 if they really understand what the current project/task is about, and if I can help in some point.
+
+
+<div>
+  <a href="https://github.com/RafaArtioli">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaartioli&layout=compact&langs_count=6&theme=dark"/>
+</div>
