@@ -4,7 +4,7 @@
 
 Hello Everyone, I'm Rafael Artioli, 
 
-I'm Brazilian, 29 years old, I'm currently studying systems analysis and development
+I'm Brazilian, 29 years old, I'm currently studying systems analysis and development.
 
 
 
